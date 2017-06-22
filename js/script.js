@@ -1,9 +1,10 @@
 /*
  *  Author: Alysia Petti
  *  Date: 2017-06-22
- *  Description: Simple salary calculator to compute allocated amount by dates given, 
-	gross monthly amount, # of workdays, percent time, full time equivalence, and hourly rate.
-	Created to replace a tool that was being used, but wanted to avoid subscription of employees.
+ *  Description: Simple salary and stipend calculator to compute allocated amount by dates given, 
+	gross monthly amount, # of workdays, percent time, full time equivalence, hourly rate, monthly
+	stipend, and account distribution percentage. Created to replace a tool that was being used, 
+	but wanted to avoid subscription of employees.
  */
 
 //allocated gross amount between beginning and end dates set
